@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ハッピー・ハッピー・フレンズ",
+  "base_artist": "わたてん☆5",
+  "createdAt": "2025-12-27T01:36:55.953973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピー･ハッピー･フレンズ",
+      "artist": "わたてん☆5",
+      "has_synced": true,
+      "path": "select/01_ハッピー・ハッピー・フレンズ_わたてん☆5.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハッピー･ハッピー･フレンズ -Instrumental-",
+      "artist": "Wataten5",
+      "has_synced": true,
+      "path": "select/02_ハッピー・ハッピー・フレンズ_-Instrumental-_Wataten5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハッピー・ハッピー・フレンズ",
+      "artist": "わたてん☆5",
+      "has_synced": true,
+      "path": "select/03_ハッピー・ハッピー・フレンズ_わたてん☆5.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハッピー・ハッピー・フレンズ -Instrumental-",
+      "artist": "わたてん☆5",
+      "has_synced": true,
+      "path": "select/04_ハッピー・ハッピー・フレンズ_-Instrumental-_わたてん☆5.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハッピー・ハッピー・フレンズ",
+      "artist": "わたてん☆5",
+      "has_synced": true,
+      "path": "select/05_ハッピー・ハッピー・フレンズ_わたてん☆5.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハッピー・ハッピー・フレンズ",
+      "artist": "わたてん☆5(指出毬亜・長江里加・鬼頭明里・大和田仁美・大空直美)",
+      "has_synced": true,
+      "path": "select/06_ハッピー・ハッピー・フレンズ_わたてん☆5(指出毬亜・長江里加・鬼頭明里・大和田仁美・大空直美).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピー・ハッピー・フレンズ",
+      "artist": "わたてん☆5",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピー・ハッピー・フレンズ_わたてん☆5.txt"
+    }
+  ]
+}
